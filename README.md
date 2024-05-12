@@ -6,7 +6,7 @@ This is my first game that I created using the python language. During this proj
 
 Hope you guys can follow along!
 
-<h2>Terms & Defintions
+<h2>Terms & Defintions<h2>
 
 *dictionary*: data structure that allows users to store key-value pairs
 
