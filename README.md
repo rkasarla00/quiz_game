@@ -4,11 +4,9 @@ This is my first game that I created using the python language. During this proj
 
 Hope you guys can follow along!
 
-<h2>*Terms & Defintions*
+<h2>Terms & Defintions
 
-dictionary
-: data structure that allows users to store key-value pairs
+*dictionary*: data structure that allows users to store key-value pairs
 
-iterative loop
-: a repetitive execution of a block of code
+*iterative loop*: a repetitive execution of a block of code
 
